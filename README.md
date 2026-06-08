@@ -81,4 +81,4 @@ python -m PyInstaller --onefile --noconsole --name PDFReciter main.py
 
 ## License
 
-[CC BY-NC 4.0](LICENSE) — 个人、学习、研究可自由使用；**商用需联系作者获取授权**。">
+[CC BY-NC 4.0](LICENSE) — 个人、学习、研究可自由使用；商用需联系作者获取授权。
