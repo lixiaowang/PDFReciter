@@ -79,11 +79,6 @@ python -m PyInstaller --onefile --noconsole --name PDFReciter main.py
 # 输出在 dist/PDFReciter.exe
 ```
 
-## 捐赠
-
-如果这个工具对你有用，可以请我喝杯奶茶 ☕
-> 支付宝扫码，金额随意，感谢支持！
-<img src="https://github.com/user-attachments/assets/7f7375f4-1bb8-4f63-aefb-81ae2e4c42b9" width="300" />
 
 ## License
 
